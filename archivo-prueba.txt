@@ -1,1 +1,2 @@
-Acabo de poner contenido en este archivo para comprobar el funcionamiento de las Pull Request
+Acabo de poner contenido en este archivo para comprobar el funcionamiento de las Pull Request.
+Linea 2
